@@ -16,3 +16,11 @@ B: Bit
 2: 두 번째 팀 구성    
 T: Team   
 1: 1팀    
+
+## 내팀 레포 바로가기 
+
+|팀 구성 회차|팀명|    
+|:--:|:--:|      
+| 2회차 | [1팀 LOTDIZ](https://github.com/orgs/lotteon2/teams/lb2t1/repositories) |     
+| | [2팀 BITBOX](https://github.com/orgs/lotteon2/teams/lb2t2/repositories) |     
+| | [3팀](https://github.com/orgs/lotteon2/teams/lb2t3/repositories) |    
