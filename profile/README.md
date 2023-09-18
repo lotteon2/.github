@@ -19,8 +19,8 @@ T: Team
 
 ## 내팀 레포 바로가기 
 
-|팀 구성 회차|팀명|    
-|:--:|:--:|      
-| 2회차 | [1팀 LOTDIZ](https://github.com/orgs/lotteon2/teams/lb2t1/repositories) |     
-| | [2팀 BITBOX](https://github.com/orgs/lotteon2/teams/lb2t2/repositories) |     
-| | [3팀](https://github.com/orgs/lotteon2/teams/lb2t3/repositories) |    
+|팀명/팀 구성 회차|2회차|최종|         
+|:--:|:--:|:--:|            
+| | [1팀 LOTDIZ](https://github.com/orgs/lotteon2/teams/lb2t1/repositories) |  |     
+| | [2팀 BITBOX](https://github.com/orgs/lotteon2/teams/lb2t2/repositories) |     |     
+| | [3팀](https://github.com/orgs/lotteon2/teams/lb2t3/repositories) |    |     
