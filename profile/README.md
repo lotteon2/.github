@@ -23,4 +23,4 @@ T: Team
 |:--:|:--:|:--:|            
 | | [1팀 LOTDIZ](https://github.com/orgs/lotteon2/teams/lb2t1/repositories) |  |     
 | | [2팀 BITBOX](https://github.com/orgs/lotteon2/teams/lb2t2/repositories) |     |     
-| | [3팀](https://github.com/orgs/lotteon2/teams/lb2t3/repositories) |    |     
+| | [3팀 LOTFRESH](https://github.com/orgs/lotteon2/teams/lb2t3/repositories) |    |     
