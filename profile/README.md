@@ -21,6 +21,6 @@ T: Team
 
 |팀명/팀 구성 회차|2회차|최종|         
 |:--:|:--:|:--:|            
-| | [1팀 LOTDIZ](https://github.com/orgs/lotteon2/teams/lb2t1/repositories) | [BAFLOW](https://github.com/orgs/lotteon2/teams/lb3t1/repositories) |     
+| | [1팀 LOTDIZ](https://github.com/orgs/lotteon2/teams/lb2t1/repositories) | [Flower Garden](https://github.com/orgs/lotteon2/teams/lb3t1/repositories) |     
 | | [2팀 BITBOX](https://github.com/orgs/lotteon2/teams/lb2t2/repositories) |  [2팀](https://github.com/orgs/lotteon2/teams/lb3t2/repositories)   |     
 | | [3팀 LOTFRESH](https://github.com/orgs/lotteon2/teams/lb2t3/repositories) |  [3팀](https://github.com/orgs/lotteon2/teams/lb3t3/repositories)  |     
